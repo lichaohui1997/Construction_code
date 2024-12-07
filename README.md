@@ -1,4 +1,4 @@
-This file presents readme of the code package for paper:
+Code package for paper:
 Chaohui Li, Prajal Pradhan∗, Guoqian Chen∗, Juergen Kropp, and Hans Joachim Schellnhuber. Carbon Cost of Constructing the Global Built Environment Can Preclude the Climate Change Goals. 
 
 All data used in this paper are publicly available. Input-Output Tables used in this study are publicly available at https://www.exiobase.eu and https://zenodo.org/records/5589597, socio-economic data of historical and future projections are available at https://iiasa.ac.at/models-tools-data/ssp,  https://data.worldbank.org, latest carbon budget data are available at https://essd.copernicus.org/articles/15/2295/2023/essd-15-2295-2023.html 
